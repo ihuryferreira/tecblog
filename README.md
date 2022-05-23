@@ -1,4 +1,4 @@
-# Tecblog
+# TecBlog
 Projeto Web ~ TecBlog
 
 Esté projeto foi desenvolvido por Ihury Ferreira.
