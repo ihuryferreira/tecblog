@@ -1,0 +1,37 @@
+@media screen and (max-width: 900px){
+	*{
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+	}
+	body {
+		overflow-x: hidden;
+	}
+	#area-cabecalho {
+		width: 100%;
+	}
+	#area-logo, #area-menu {
+		width: 100%;
+	}
+	#area-principal {
+		width: 575px;
+	}
+	#area-postagens {
+		width: 488px;
+	}
+	div.postagem > img.img {
+		width: 100%;
+	}
+	div#area-lateral {
+		width: 100%;
+		transform: translate(-65px);
+		max-width: 480px;
+		margin: 0 auto;
+	}
+	div#rodape {
+		width: 100%;
+		margin: 0 auto;
+		max-width: 480px;
+		transform: translate(-35px);
+	}
+}
